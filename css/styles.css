@@ -1214,8 +1214,9 @@ select::-ms-expand {
 	margin-bottom: 2rem;
 }
 
-.section-7 .embed-responsive iframe {
+.section-7 .video-div {
 	border-radius: 25px;
+    background: #f89721;
 }
 
 
