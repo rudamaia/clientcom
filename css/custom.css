@@ -1,0 +1,59 @@
+.font-normal {
+    font-weight: 300;
+}
+
+.section-7, .section-11 {
+    background: linear-gradient(to right, #ffb70f, #fd9556);
+}
+
+.btn {
+    border-radius: 50px;
+    border: none;
+}
+
+.header-content .btn {
+    padding: 10px 20px;
+    margin: 0.6em;
+}
+
+.header-content .svg-inline--fa.fa-google-play{
+    width: 0.8em;
+}
+
+.btn-primary {
+    background: #43515d !important;
+}
+.btn-primary:hover {
+    background: white !important;
+    color: #43515d;
+}
+/* background: linear-gradient(to right, #fc8b56, #fd5656); */
+
+.section-10 .fa-fw .fa-circle {
+    color: white !important;
+}
+
+.section-10 .fa-fw .fa-circle {
+    color: #43515d !important;
+}
+
+.section-10 .fa-fw:hover .fa-1x {
+    color: #43515d !important;
+}
+
+.section-10 .fa-fw:hover .fa-circle  {
+    color: white !important;
+}
+
+
+@media (max-width: 768px)	{
+    .header-content {
+        text-align: center;
+    }
+
+    .logo.d-sm-block {
+        display: inline !important;
+        margin: 0 0 4em 0;
+        width: 60%;
+    }
+}
