@@ -46,6 +46,7 @@
 }
 
 
+
 @media (max-width: 768px)	{
     .header-content {
         text-align: center;
@@ -55,5 +56,10 @@
         display: inline !important;
         margin: 0 0 4em 0;
         width: 60%;
+    }
+
+    .img-responsive {
+        width: 100%;
+        height: auto;
     }
 }
